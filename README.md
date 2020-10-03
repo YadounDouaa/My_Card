@@ -8,7 +8,7 @@ This is a basic flutter project
 ## Screenshots:
 
 	
-<img  src="images\doudii.jpg" style=" ">
+<img  src="images\dz.jpg" style=" ">
 
 
 	
