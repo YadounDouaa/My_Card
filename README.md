@@ -6,8 +6,11 @@
 This is a basic flutter project 
 
 ## Screenshots:
-
+<div>
+	
 <img  src="images\doudii.jpg" style=" width: 20%">
+</div>
+
 	
 ## Tools used:
 * Vs Code (text editor)
