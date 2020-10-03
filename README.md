@@ -7,7 +7,7 @@ This is a basic flutter project
 
 ## Screenshots:
 
-<img src="images\doudii.jpg" style="">
+<img  src="images\doudii.jpg" style=" width: 20%">
 	
 ## Tools used:
 * Vs Code (text editor)
