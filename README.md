@@ -8,7 +8,7 @@ This is a basic flutter project
 ## Screenshots:
 <div>
 	
-<img  src="images\doudii.jpg" style=" width: 20%">
+<img  src="images\doudii.jpg" style=" width: 20px">
 </div>
 
 	
