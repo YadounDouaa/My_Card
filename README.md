@@ -7,8 +7,10 @@ This is a basic flutter project
 
 ## Screenshots:
 
-	
-<img  src="images\dz.jpg" style=" ">
+<div>
+	<img  src="images\dz.jpg" style=" ">
+</div>
+
 
 
 	
