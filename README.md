@@ -6,10 +6,10 @@
 This is a basic flutter project 
 
 ## Screenshots:
-<div>
+
 	
-<img  src="images\doudii.jpg" style=" width: 20%;">
-</div>
+<img  src="images\doudii.jpg" style=" ">
+
 
 	
 ## Tools used:
