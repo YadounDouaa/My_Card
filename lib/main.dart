@@ -23,7 +23,7 @@ class Mycard extends StatelessWidget {
                 backgroundImage: AssetImage('images/Douaa.jpeg'),
               )),
               SizedBox(
-                height: 20,
+                height: 21,
               ),
               Text(
                 'Yadoun Douaa',
@@ -35,7 +35,7 @@ class Mycard extends StatelessWidget {
                 ),
               ),
               Text(
-                'Web Developer',
+                'Designer',
                 style: TextStyle(
                   color: Colors.grey[300],
                   fontSize: 20,
@@ -44,7 +44,7 @@ class Mycard extends StatelessWidget {
                 ),
               ),
               SizedBox(
-                height: 20,
+                height: 21,
               ),
               Container(
                 color: Colors.white,
@@ -54,7 +54,7 @@ class Mycard extends StatelessWidget {
                   children: [
                     Icon(Icons.phone),
                     SizedBox(
-                      width: 20,
+                      width: 21,
                     ),
                     Text(
                       '+213 775186619',
@@ -68,7 +68,7 @@ class Mycard extends StatelessWidget {
                 ),
               ),
               SizedBox(
-                height: 20,
+                height: 21,
               ),
               Container(
                 color: Colors.white,
@@ -78,7 +78,7 @@ class Mycard extends StatelessWidget {
                   children: [
                     Icon(Icons.mail),
                     SizedBox(
-                      width: 20,
+                      width: 21,
                     ),
                     Text(
                       'douaa25122000@gmail.com',
