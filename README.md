@@ -26,7 +26,7 @@ This is a basic flutter project
 	<img  src="images\dz.jpg" style=" ">
 </div>
 ``
-[UP :arrow_up:](#table-of-contents)
+																	[UP :arrow_up:](#table-of-contents)
 	
 ## Tools:
 
@@ -34,7 +34,7 @@ This is a basic flutter project
 * Vs Code (text editor)
 * Dart (logic)
 
-[:arrow_up:](#table-of-contents)
+																	[:arrow_up:](#table-of-contents)
 
 
  ## Team: 
@@ -44,7 +44,7 @@ This is a basic flutter project
 :busts_in_silhouette:  This project was made by: 
 * [Yadoun Douaa(https://github.com/YadounDouaa) :sparkling_heart: :sparkles: 
 
-[:arrow_up:](#table-of-contents)
+												[:arrow_up:](#table-of-contents)
 
 
 ## Contribution:
