@@ -21,11 +21,11 @@ This is a basic flutter project
 
 <img src="images\dz.jpg"/>
 
-``` can also use this 
+`` can also use this 
 <div>
 	<img  src="images\dz.jpg" style=" ">
 </div>
-```
+``
 [UP :arrow_up:](#table-of-contents)
 	
 ## Tools:
