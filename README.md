@@ -12,7 +12,7 @@ This is a basic flutter project
 ## Table of contents 
 
 - [Screenshots](#Screenshots)
-- [Tools](#Tools)
+- [Tools](#Tools-used)
 - [Team](#Team)
 - [Contribution](#Contribution)
 
@@ -25,7 +25,7 @@ This is a basic flutter project
 	
 	
 	
-## Tools:
+## Tools used:
 
 * Vs Code (text editor)
 * Dart (logic)
