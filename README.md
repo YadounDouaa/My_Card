@@ -18,7 +18,6 @@ This is a basic flutter project
 
 ## Screenshots:
 
-[##UP :arrow_up:](#table-of-contents)
 
 <img src="images\dz.jpg"/>
 
@@ -27,26 +26,31 @@ This is a basic flutter project
 	<img  src="images\dz.jpg" style=" ">
 </div>
 ```
-
+[UP :arrow_up:](#table-of-contents)
 	
 ## Tools:
 
-[UP :arrow_up:](#table-of-contents)
 
 * Vs Code (text editor)
 * Dart (logic)
 
+[UP :arrow_up:](#table-of-contents)
+
 
  ## Team: :busts_in_silhouette: 
  
-[UP :arrow_up:](#table-of-contents)
+
  
 This project was made by: 
 * [Yadoun Douaa(https://github.com/YadounDouaa) :sparkling_heart: :sparkles: 
 
+[UP :arrow_up:](#table-of-contents)
+
 
 ## Contribution:
 
-[UP :arrow_up:](#table-of-contents)
+
 
 Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
+
+[UP :arrow_up:](#table-of-contents)
