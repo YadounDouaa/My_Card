@@ -22,7 +22,7 @@ This is a basic flutter project
 
 <img src="images\dz.jpg"/>
 
-[UP :arrow_up:](#table-of-contents)
+[:arrow_up:](#table-of-contents)
 	
 	
 	
@@ -48,4 +48,4 @@ This is a basic flutter project
 
 :handshake: Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
 
-[:arrow_up:](#table-of-contents)
+[Back to Top :arrow_up:](#table-of-contents)
