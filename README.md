@@ -14,7 +14,7 @@ This is a basic flutter project
 - [Screenshots](#Screenshots)
 - [Tools](#Tools-used)
 - [Team](#Team)
-- [Contribution](#Contribution)
+- [Contribution](#:handshake:-Contribution)
 
 
 ## Screenshots:
@@ -40,7 +40,7 @@ This is a basic flutter project
 
 
 
-## Contribution: :handshake:
+## :handshake: Contribution: 
 
  Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
 
