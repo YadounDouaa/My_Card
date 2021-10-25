@@ -37,9 +37,9 @@ This is a basic flutter project
 * Dart (logic)
 
 
- ## Team: 
+ ## Team: :busts_in_silhouette: 
  
- :busts_in_silhouette:  [(Back to top)](#table-of-contents) 
+  [(Back to top)](#table-of-contents) 
  
 This project was made by: 
 * [Yadoun Douaa(https://github.com/YadounDouaa) :sparkling_heart: :sparkles: 
