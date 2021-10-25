@@ -33,7 +33,7 @@ This is a basic flutter project
 * Dart (logic)
 
 
-## Team:
+:busts_in_silhouette:  ## Team:
 This project was made by: 
 * [Yadoun Douaa(https://github.com/YadounDouaa) :sparkling_heart: :sparkles: 
 
