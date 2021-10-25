@@ -22,7 +22,6 @@ This is a basic flutter project
 
 <img src="images\dz.jpg"/>
 
-[:arrow_up:](#table-of-contents)
 	
 	
 	
@@ -31,7 +30,6 @@ This is a basic flutter project
 * Vs Code (text editor)
 * Dart (logic)
 
-[:arrow_up:](#table-of-contents)
 
 
 
@@ -40,12 +38,10 @@ This is a basic flutter project
 :busts_in_silhouette:  This project was made by: 
 * [Yadoun Douaa(https://github.com/YadounDouaa) :sparkling_heart: :sparkles: 
 
-[:arrow_up:](#table-of-contents)
-
 
 
 ## Contribution:
 
 :handshake: Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
 
-[Back to Top :arrow_up:](#table-of-contents)
+[Back to Top   :arrow_up:](#table-of-contents)
