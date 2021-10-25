@@ -21,8 +21,11 @@ This is a basic flutter project
 
 <img src="images\dz.jpg"/>
 
-
-
+``` can also use this 
+<div>
+	<img  src="images\dz.jpg" style=" ">
+</div>
+```
 
 	
 ## Tools:
