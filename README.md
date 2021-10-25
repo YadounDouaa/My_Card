@@ -14,7 +14,7 @@ This is a basic flutter project
 - [Screenshots](#Screenshots)
 - [Tools](#Tools-used)
 - [Team](#Team)
-- [Contribution](#Contribution:-:handshake:)
+- [Contribution](#Contribution)
 
 
 ## Screenshots:
