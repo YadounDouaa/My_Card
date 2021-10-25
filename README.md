@@ -11,7 +11,7 @@ This is a basic flutter project
 ## Table of contents 
 
 - [Screenshots](#Screenshots)
-- [Tools used](#Tools used)
+- [Tools used](#Tools)
 - [Team](#Team)
 - [Contribution](#Contribution)
 
