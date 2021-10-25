@@ -7,6 +7,15 @@
 
 This is a basic flutter project 
 
+
+## Table of contents 
+
+- [Screenshots](#Screenshots)
+- [Tools used](#Tools used)
+- [Team](#Team)
+- [Contribution](#Contribution)
+
+
 ## Screenshots:
 
 <div>
