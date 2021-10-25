@@ -11,7 +11,7 @@ This is a basic flutter project
 ## Table of contents 
 
 - [Screenshots](#Screenshots)
-- [Tools_used](#Tools)
+- [Tools](#Tools)
 - [Team](#Team)
 - [Contribution](#Contribution)
 
@@ -25,7 +25,7 @@ This is a basic flutter project
 
 
 	
-## Tools_used:
+## Tools:
 * Vs Code (text editor)
 * Dart (logic)
 
