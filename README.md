@@ -1,4 +1,4 @@
-# :ballot_box_with_check:  My Card
+# My Card :ballot_box_with_check:
 
 ![GitHub license](https://img.shields.io/github/license/open-minds/Train_Track_Repair_GGJ2020.svg)
 ![Team Open Minds](https://img.shields.io/badge/Members%20of-Team%20Open%20Minds-blue.svg?color=0099CC)
@@ -14,7 +14,7 @@ This is a basic flutter project
 
 
 	
-## :hammer_pick:  Tools used:
+## Tools used:
 * Vs Code (text editor)
 * Dart (logic)
 
