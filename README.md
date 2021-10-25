@@ -31,7 +31,7 @@ This is a basic flutter project
 	
 ## Tools:
 
-[(Back to top)](#table-of-contents)
+[(:arrow_up: )](#table-of-contents)
 
 * Vs Code (text editor)
 * Dart (logic)
